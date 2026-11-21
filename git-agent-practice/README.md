@@ -16,4 +16,4 @@
 - images文件夹：存放所有操作截图
 
 ## GitHub Pages
-网页访问链接：https://eva-oss1.github.io/春阳-stage1-注释/git-agent-practice/index.html
+网页访问链接：https://eva-oss1.github.io/chunyang-stage1-notes/git-agent-practice/index.html
